@@ -1,0 +1,15 @@
+current directory: /home/desktop-53/Desktop/auctions/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+/home/desktop-53/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/desktop-53/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20221220-37338-j9ykpn.rb extconf.rb
+creating Makefile
+
+current directory: /home/desktop-53/Desktop/auctions/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/desktop-53/Desktop/auctions/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/desktop-53/Desktop/auctions/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20221220-37338-7gq0ky/bootsnap
